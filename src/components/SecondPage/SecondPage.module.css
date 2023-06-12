@@ -1,0 +1,41 @@
+.pic_array {
+  margin-top: 50px;
+margin-left: 20px;
+   columns:3;
+   margin-bottom: 50px;
+ 
+ 
+ }
+  
+
+@media(max-width: 376px){
+ 
+.pic_array{
+  
+  margin-top: 20px;
+  margin-left: 0px;
+     columns:1;
+     margin-bottom: 50px;
+}
+}
+
+@media (min-width:377px) and (max-width: 420px){
+  .pic_array{
+    width: 410px;
+    margin-top: 0px;
+    margin-left: 0px;
+       columns:1;
+       margin-bottom: 50px;
+  }
+
+}
+
+/* @media (min-width:421px) and (max-width: 737px) {
+  .pic_array{
+    width: 650px;
+    margin-top: 0px;
+    margin-left: 0px;
+       columns:1;
+       margin-bottom: 50px;
+  }
+} */

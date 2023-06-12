@@ -1,0 +1,73 @@
+.architecture_container img{
+  max-width: 95%;
+ }
+
+ .arch_img_container{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  object-fit: contain;
+  transition: all 0.5s ease;
+ }
+
+  .arch_img_container a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .arch_img_container p {
+    opacity: 0;
+    position: absolute;
+    font-family: 'Montserrat';
+font-weight:  600;
+font-size: 15px;
+ margin-top: 8px;
+    margin-left: 8px;
+  }
+
+  .arch_img_container:hover p{
+    opacity: 1;
+    z-index: 1;
+    
+
+  }
+
+  @media(max-width: 375px){
+    
+    .architecture_container img{
+ 
+     width: 370px;
+        margin-left: 15px;
+        margin-bottom: 0px;
+     }
+    
+    
+    
+      .arch_img_container a {
+        text-decoration: none;
+        color: black;
+      }
+    
+      .arch_img_container p {
+        opacity: 1;
+        position: absolute;
+        font-family: 'Montserrat';
+    font-weight:  600;
+    font-size: 15px;
+     margin-top: 8px;
+        margin-left: 10px;
+      }
+    
+      .arch_img_container:hover p{
+        opacity: 1;
+        z-index: 1;
+      }
+    
+        .arch_img_container{
+          max-width: 360px;
+          margin-top: 50px;
+          display:block;
+         }
+      }
+ 
+

@@ -1,0 +1,204 @@
+.nav_block {
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+gap: 100px;
+margin: 40px 40px 0px;
+}
+.nav_menu {
+      display: flex;
+      flex-direction: row;
+      width: 500px;
+     gap: 10px;
+justify-content: space-around;
+padding-right: 0px;
+font-family: 'Montserrat';
+font-weight:  200;
+font-size: 15px;
+text-transform: uppercase;
+margin-top: 20px;
+      }
+
+.nav_menu a {
+    text-decoration: none;
+    color: black;
+}
+.nav_logo img {
+    height: 73px;
+    width: 57px;
+}
+.icon_plus{
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    display: none;
+    cursor: pointer;
+}
+
+@media(max-width: 376px){
+   .icon_plus{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+  font-family: 'Montserrat';
+font-weight:  400;
+font-size: 50px;
+margin-top: 20px;
+
+margin-left: -50px;
+
+        }
+.nav_menu.active {
+            transform: translateY(0%);
+            background-color: white;
+            display: flex;
+            flex-direction: column;
+      gap: 10px;
+    padding-right: 0px;
+      font-family: 'Montserrat';
+      font-weight:  400;
+      font-size: 15px;
+      margin-top: 50px;
+      margin-left: 90px;
+   
+     
+     }
+         
+        .nav_logo img {
+            margin: 20px 0px 0px 40px;
+            height: 73px;
+            width: 57px;
+
+          
+        }
+         
+        .nav_block {
+         
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                gap: 0px;
+                margin: 0px 0px 0px 0px;
+                height: 50px;
+                padding: 0px;
+                width: 376px;
+             
+        }
+     
+      .nav_menu {
+transform: translateY(-999%);
+/* width: 350px; */
+
+      }
+    
+     
+ }
+
+ @media (min-width:377px) and (max-width: 420px){
+    .icon_plus{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ font-family: 'Montserrat';
+ font-weight:  400;
+ font-size: 50px;
+ margin-top: 20px;
+ margin-right: 320px;
+         }
+ .nav_menu.active {
+             transform: translateY(0%);
+             background-color: white;
+             display: flex;
+             flex-direction: column;
+       gap: 10px;
+     padding-right: 0px;
+       font-family: 'Montserrat';
+       font-weight:  400;
+       font-size: 15px;
+       margin-top: 50px;
+       margin-left: 150px;
+    
+      
+      }
+          
+         .nav_logo img {
+             margin: 20px 0px 0px 10px;
+             height: 73px;
+             width: 57px;
+ 
+           
+         }
+          
+         .nav_block {
+                 display: flex;
+                 flex-direction: row;
+                 justify-content: space-between;
+                 gap: 0px;
+                 margin: 0px 0px 0px 0px;
+                 height: 50px;
+                 padding: 0px;
+                 width: 410px;
+         }
+      
+       .nav_menu {
+ transform: translateY(-999%);
+       }
+     
+      
+  }
+
+  @media (min-width:421px) and (max-width: 737px){
+
+    .icon_plus{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+     font-family: 'Montserrat';
+     font-weight:  400;
+     font-size: 50px;
+     margin-top: 30px;
+     margin-left: -40px;
+             }
+     .nav_menu.active {
+                 transform: translateY(0%);
+                 background-color: white;
+                 display: flex;
+                 flex-direction: column;
+           gap: 10px;
+         padding-right: 0px;
+           font-family: 'Montserrat';
+           font-weight:  400;
+           font-size: 15px;
+           margin-top: 50px;
+           margin-left: 480px;
+        
+          
+          }
+              
+             .nav_logo img {
+                 margin: 30px 0px 0px 30px;
+                 height: 73px;
+                 width: 57px;
+                }
+              
+             .nav_block {
+                     display: flex;
+                     flex-direction: row;
+                     justify-content: space-between;
+                     gap: 0px;
+                     margin: 0px 0px 0px 0px;
+                     height: 50px;
+                     padding: 0px;
+                     width: 735px;
+             }
+          
+           .nav_menu {
+     transform: translateY(-999%);
+           }
+         
+
+
+
+
+  }

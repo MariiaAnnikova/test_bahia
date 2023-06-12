@@ -1,0 +1,132 @@
+.main {
+
+    min-height: calc(100vh - 270px);
+    display: flex;
+    margin-top: 110px;
+    align-items: center;
+    justify-content: center;
+}
+.main a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo img {
+    height: 293px;
+    width: 229px;
+    cursor: pointer;
+    margin-left: 140px;
+    margin-bottom: 180px;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+     }
+
+     .logo_title{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+        font-family: 'Montserrat';
+         font-weight:  200;
+         font-size: 20px;
+         text-transform: uppercase;
+      
+    }
+    @media (max-width: 376px){
+        .main {
+           
+            min-height: calc(100vh - 270px);
+            
+            display: flex;
+            margin-top: 110px;
+            align-items: center;
+            justify-content: center;
+            width: 360px;
+            margin-bottom: 30px;
+          }
+        .main a {
+            text-decoration: none;
+            color: black;
+        }
+        
+        .logo img {
+           
+            height: 146.5px;
+            width: 114.5px;
+            cursor: pointer;
+           margin-bottom: 60px;
+           margin-left: 90px;
+           display: flex;
+            align-items: center;
+            justify-content: center;
+             }
+        
+             .logo_title{
+               
+                display: flex;
+            align-items: center;
+            justify-content: center;
+                font-family: 'Montserrat';
+                 font-weight:  100;
+                 font-size: 11px;
+                 text-transform: uppercase;
+                
+
+               
+            
+            
+            }
+               
+     }
+
+     @media (min-width:377px) and (max-width: 420px){
+
+        .main {
+           
+            min-height: calc(100vh - 270px);
+            
+            display: flex;
+            margin-top: 110px;
+            align-items: center;
+            justify-content: center;
+            width: 420px;
+            margin-bottom: 30px;
+          }
+        .main a {
+            text-decoration: none;
+            color: black;
+        }
+        
+        .logo img {
+           
+            height: 146.5px;
+            width: 114.5px;
+            cursor: pointer;
+           margin-bottom: 60px;
+           margin-left: 120px;
+           display: flex;
+            align-items: center;
+            justify-content: center;
+             }
+        
+             .logo_title{
+               
+                display: flex;
+            align-items: center;
+            justify-content: center;
+                font-family: 'Montserrat';
+                 font-weight:  100;
+                 font-size: 13px;
+                 text-transform: uppercase;
+                
+
+               
+            
+            
+            }
+
+     }
+
+   
+
+    

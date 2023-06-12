@@ -1,0 +1,122 @@
+.research_container img{
+    max-width: 95%;
+}
+
+.res_img_container {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.res_img_container img {
+  
+    object-fit: contain;
+    transition: all 0.5s ease;
+    
+}
+
+.res_img_container a {
+    text-decoration: none;
+    color: black;
+    
+}
+.res_img_container p {
+    opacity: 0;
+    position: absolute;
+    font-family: 'Montserrat';
+font-weight:  600;
+font-size: 15px;
+  opacity: 0;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.res_img_container:hover p{
+    z-index: 1;
+    opacity: 1;
+    }
+
+    @media (max-width: 376px) {
+        .research_container img{
+         
+            width: 375px;
+            margin-left: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .res_img_container {
+           
+            margin-left: 15px;
+            max-width: 375px;
+            margin-top: 50px;
+            display:block;
+        }
+        .res_img_container img {
+          
+            object-fit: contain;
+            transition: none;
+            
+        }
+        
+        .res_img_container a {
+            text-decoration: none;
+            color: black;
+            
+        }
+        .res_img_container p {
+            opacity: 0;
+            position: absolute;
+            font-family: 'Montserrat';
+        font-weight:  600;
+        font-size: 15px;
+          opacity: 0;
+            margin-top: 8px;
+            margin-left: 20px;
+        }
+        .res_img_container:hover p{
+            z-index: 1;
+            opacity: 1;
+            } 
+    }
+
+    @media(min-width:377px) and (max-width: 420px) {
+        .research_container img{
+         
+            width: 410px;
+            margin-left: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .res_img_container {
+           
+            margin-left: 10px;
+            max-width: 410px;
+            margin-top: 50px;
+            display:block;
+        }
+        .res_img_container img {
+          
+            object-fit: contain;
+            transition: none;
+            
+        }
+        
+        .res_img_container a {
+            text-decoration: none;
+            color: black;
+            
+        }
+        .res_img_container p {
+            opacity: 0;
+            position: absolute;
+            font-family: 'Montserrat';
+        font-weight:  600;
+        font-size: 15px;
+          opacity: 0;
+            margin-top: 8px;
+            margin-left: 10px;
+        }
+        .res_img_container:hover p{
+            z-index: 1;
+            opacity: 1;
+            } 
+      
+    }
