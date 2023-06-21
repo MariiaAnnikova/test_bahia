@@ -29,7 +29,7 @@ return (
   
     </div>
   <div className={s.res_item_right}>
-  <img src={avatar} alt='t' className={s.avatar} />
+  <img src={avatar} alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research' className={s.avatar} />
     </div>
     
   </div>

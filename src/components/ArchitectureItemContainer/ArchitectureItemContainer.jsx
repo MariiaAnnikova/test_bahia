@@ -23,7 +23,7 @@ export default function ArchitectureItemContainer({title, site, status, year, pr
 
   <div className={s.arr_arch_photo}>
  <p>
-  { photos.map(photoUrl => <img src={photoUrl} alt='t' className={s.arr_photo}/> )}
+  { photos.map(photoUrl => <img src={photoUrl} alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research' className={s.arr_photo}/> )}
 </p>
 </div>
 </div> 

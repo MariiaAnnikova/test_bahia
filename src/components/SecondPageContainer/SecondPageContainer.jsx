@@ -13,7 +13,7 @@ export default function SecondPageContainer({ id, avatar, site}) {
     
       <div className={s.image_container}>
       <Link to= { `${id}` }>
-      <img alt='Architectura' src={avatar}/>
+      <img alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research' src={avatar}/>
       <p>{site}</p>
       </Link>
       </div>

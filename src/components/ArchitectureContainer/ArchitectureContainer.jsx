@@ -9,7 +9,7 @@ export default function ArchitectureContainer({id, avatar, site}) {
     <div className={s.arch_img_container}>
     <Link to= { `${id}` }>
     
-      <img alt='Architectura' src={avatar} className={s.arch_avatar}/>
+      <img alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research ' src={avatar} className={s.arch_avatar} />
      
       <p>{site}</p>
       </Link>

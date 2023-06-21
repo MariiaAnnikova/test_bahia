@@ -9,7 +9,7 @@ export default function ResearchContainer({id, avatar, site}) {
     
       <div className={s.res_img_container}>
       <Link to= { `${id}` }>
-      <img alt='Architectura' src={avatar}/>
+      <img alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research' src={avatar}/>
       <p>{site}</p>
       </Link>
       </div>

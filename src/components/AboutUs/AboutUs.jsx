@@ -12,7 +12,7 @@ export default function AboutUs() {
     
    <div className={s.us_block}>
       <div className={s.photo_us}>
-      <img src={ us } alt='us'/>
+      <img src={ us } alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research'/>
       </div>
 
       <div className={s.us_info}>
