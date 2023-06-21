@@ -15,7 +15,7 @@ return (
   <div className={s.main}>
     <div className={s.logo}>  <Link to='galery'>
       
-      <img  src={Logo} alt='Logo'/> 
+      <img  src={Logo} alt='AtelierBahia atelierbahia Atelier Bahia Gloria Cota Visedo Matheus Cartocci Cabella Ligure Architecture Art Research '/> 
 
    </Link>
    <div className={s.logo_title}>
