@@ -6,19 +6,19 @@
    }
 
 
-   @media(max-width: 375px){
+   @media(max-width: 376px){
     .arch_pic_array{
-     
-      width: 375px;
+  
       margin-top: 20px;
       margin-left: 0px;
          columns:1;
          margin-bottom: 50px;
+
     }
    
    }
 
-   @media (min-width:375px) and (max-width: 420px){
+   @media (min-width:377px) and (max-width: 420px){
     .arch_pic_array{
      
       width: 420px;

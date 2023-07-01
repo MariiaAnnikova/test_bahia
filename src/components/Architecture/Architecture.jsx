@@ -13,7 +13,7 @@ export default function Architecture() {
    
   {
     architecture
-    .sort(() => 0.5 - Math.random()).slice(0, 13)
+    .sort(() => 0.5 - Math.random()).slice(0, 15)
     .map((el) => <ArchitectureContainer {...el} key={el.id} />)
   }
 </div>  

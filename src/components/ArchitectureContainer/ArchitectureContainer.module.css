@@ -32,13 +32,14 @@ font-size: 15px;
 
   }
 
-  @media(max-width: 375px){
+  @media(max-width: 376px){
     
     .architecture_container img{
  
      width: 370px;
-        margin-left: 15px;
+        margin-left: 0px;
         margin-bottom: 0px;
+      
      }
     
     
@@ -55,7 +56,7 @@ font-size: 15px;
     font-weight:  600;
     font-size: 15px;
      margin-top: 8px;
-        margin-left: 10px;
+        margin-left: 20px;
       }
     
       .arch_img_container:hover p{
@@ -64,9 +65,50 @@ font-size: 15px;
       }
     
         .arch_img_container{
-          max-width: 360px;
+          max-width: 375px;
           margin-top: 50px;
           display:block;
+        
+          margin-left: 15px;
+         }
+
+         @media(min-width:377px) and (max-width: 420px){
+          .architecture_container img{
+ 
+            width: 410px;
+               margin-left: 0px;
+               margin-bottom: 0px;
+             
+            }
+           
+           
+           
+             .arch_img_container a {
+               text-decoration: none;
+               color: black;
+             }
+           
+             .arch_img_container p {
+               opacity: 1;
+               position: absolute;
+               font-family: 'Montserrat';
+           font-weight:  600;
+           font-size: 15px;
+            margin-top: 8px;
+               margin-left: 10px;
+             }
+           
+             .arch_img_container:hover p{
+               opacity: 1;
+               z-index: 1;
+             }
+           
+               .arch_img_container{
+                 max-width: 410px;
+                 margin-top: 50px;
+                 display:block;
+                 margin-left: 10px;
+                }
          }
       }
  

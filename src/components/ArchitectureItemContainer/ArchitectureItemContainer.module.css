@@ -102,7 +102,8 @@ display: flex;
 margin-left: 0px;
 margin-right: 0px;
 margin-bottom: 0px;
-width: 375px;
+width: 370px;
+border:1px solid rgb(99, 16, 6);
 }
 .arch_item_left{
 
@@ -178,9 +179,10 @@ align-items: center;
 }
 .arr_arch_photo img {
 margin: 10px 0px;
-width: 375px;
+width: 370px;
 object-fit: contain;
 transition: none;
+border: 1px solid red;
 }
 
 .arr_arch_photo:hover {
