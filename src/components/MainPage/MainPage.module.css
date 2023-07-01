@@ -35,7 +35,7 @@
     @media (max-width: 376px){
         .main {
            
-            min-height: calc(100vh - 270px);
+            min-height: calc(100vh - 250px);
             
             display: flex;
             margin-top: 110px;
