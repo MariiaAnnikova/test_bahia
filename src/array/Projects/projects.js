@@ -297,5 +297,16 @@ export const projects = [
     description: 'The project investigates the strategies for re-population of abandoned rural villages in the Spanish country and proposes an intervention that is both urbanistic and business oriented. The design of a production line that is first economically sustainable, via new plantations methods, becomes an architectural project for small capsule buildings that interact playfully with the traditional Spanish Pueblos de colonizacion.',
     avatar: "https://bahia.fra1.cdn.digitaloceanspaces.com/img/Esencia_rural_avatar.png", 
     photos: [ "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_1.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_2.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_3.png", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_4.jpg",  "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_4B.png" , "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_5.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/ESENCIA_RURAL_6.JPG"]
+ },
+ {
+    id: 27,
+    title: 'CASA ROSA',
+    site: ' Cabella Ligure, Italy',
+    status: 'Build',
+    year:  2021,
+    program: '',
+    description: 'A large room divided by two walls becomes an entrance a kitchen a living room a bathroom a bedroom. Not more than 33 square meters. Stone, wood and a few extra pieces transform a little house into a little home. ',
+    avatar: "https://bahia.fra1.cdn.digitaloceanspaces.com/1.jpg", 
+    photos: [ "https://bahia.fra1.cdn.digitaloceanspaces.com/2.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/3.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/4.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/5.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/6.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/7.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/8.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/9.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/10.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/11.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/12.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/13.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/14.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/15.jpg"]
  }
 ]

@@ -148,6 +148,16 @@ export const architecture = [
         avatar: "https://bahia.fra1.cdn.digitaloceanspaces.com/img/TheCut1.jpg", 
         photos: ["https://bahia.fra1.cdn.digitaloceanspaces.com/img/TheCut2.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/TheCut3.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/TheCut4.jpg"]
 
-    }
-
-]
+    },
+    {
+        id: 14,
+        title: 'CASA ROSA',
+        site: ' Cabella Ligure, Italy',
+        status: 'Build',
+        year:  2021,
+        program: '',
+        description: 'A large room divided by two walls becomes an entrance a kitchen a living room a bathroom a bedroom. Not more than 33 square meters. Stone, wood and a few extra pieces transform a little house into a little home. ',
+        avatar: "https://bahia.fra1.cdn.digitaloceanspaces.com/1.jpg", 
+        photos: [ "https://bahia.fra1.cdn.digitaloceanspaces.com/2.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/3.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/4.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/5.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/6.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/7.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/8.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/9.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/10.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/11.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/12.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/13.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/14.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/15.JPG"]
+     },
+     ]

@@ -36,7 +36,7 @@ font-size: 15px;
   
       .second_page_container img{
        
-        width: 370px;
+        max-width: 100%;
         margin-left: 0px;
         margin-bottom: 0px;
     }

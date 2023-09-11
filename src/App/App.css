@@ -20,7 +20,7 @@ body {
  /* flex-direction: column; */
 }
 @media (max-width: 376px){
-  
+ body { max-width: 376px;}
 
 }
 

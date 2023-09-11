@@ -14,7 +14,7 @@ export default function SecondPage() {
    
   {
     projects
-    .sort(() => 0.5 - Math.random()).slice(0, 26)
+    .sort(() => 0.5 - Math.random()).slice(0, 27)
     .map((el) => <SecondPageContainer {...el} key={el.id} />)
   }
 </div>  

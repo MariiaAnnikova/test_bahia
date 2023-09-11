@@ -36,7 +36,7 @@
         .main {
            
             min-height: calc(100vh - 300px);
-            
+            max-width: 376px;
             display: flex;
             margin-top: 110px;
             align-items: center;
