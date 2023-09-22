@@ -20,7 +20,7 @@ export const architecture = [
         program: 'Private House - renovation',
         description: 'The renovation of an old barn house focuses on maintaining the presence of the central void and the character of the original materials. Stone, wood, terracotta floors. A private house for a family of yogis whose life is entirely dedicated to meditation. The building is a continuous interaction between reserved and defined spaces with larger and open spaces. The central height is the main feature of the house, which is nothing more than a few rooms around a precise void.',
         avatar: "https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio2.jpg", 
-        photos:  ["https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio1.jpg", "https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio3.jpg", 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio4.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio5.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio6.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio7.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio8.JPG', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio9.jpg']
+        photos:  ['https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio4.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio5.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio6.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio7.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio8.JPG', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio9.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio10.jpg', 'https://bahia.fra1.cdn.digitaloceanspaces.com/img/Celio11.jpg']
     },
 
     {
